@@ -9,7 +9,7 @@ tagline: 学习过程犹如耕耘一般，一分耕耘，一分收获。
 #bgImageDark: /bg.svg
 actions:
   - text: 进入学习
-    link: ./resume/
+    link: ./java/
     type: primary
 
   - text: 关于我
@@ -28,7 +28,7 @@ features:
   - title: 数据结构与算法
     icon: solar:structure-bold-duotone
     details: 包含数据结构、算法
-    link: /data-structure/
+    link: /algorithm/
 
   - title: 设计模式
     icon: mdi:design

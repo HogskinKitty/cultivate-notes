@@ -10,7 +10,7 @@ export default sidebar({
             collapsible: true,
         },
         {
-            text: "集合(容器)",
+            text: "集合框架(容器)",
             prefix: "collection",
             icon: "ion:beaker",
             children: "structure",

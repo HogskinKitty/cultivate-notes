@@ -4,7 +4,7 @@ import sidebar from "./sidebar";
 
 export default hopeTheme({
     // 网站部署域名
-    hostname: "https://notes.threedog.run",
+    hostname: "https://threedog.run",
 
     // 导航栏图标
     logo: "/logo.png",
@@ -45,7 +45,7 @@ export default hopeTheme({
     // 全局作者信息
     author: {
         name: "HogskinKitty",
-        url: "https://notes.threedog.run",
+        url: "https://threedog.run",
     },
 
     // 插件配置

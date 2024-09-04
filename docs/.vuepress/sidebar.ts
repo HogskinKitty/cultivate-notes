@@ -58,5 +58,12 @@ export default sidebar({
             children: "structure",
             collapsible: true,
         },
+        {
+            text: "系统架构",
+            prefix: "system-architecture",
+            icon: "hugeicons:structure-01",
+            children: "structure",
+            collapsible: true,
+        },
     ],
 });

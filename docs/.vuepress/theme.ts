@@ -42,6 +42,9 @@ export default hopeTheme({
     // 深色模式支持选项
     darkmode: "switch",
 
+    // 热更新
+    hotReload: true,
+
     // 全局作者信息
     author: {
         name: "HogskinKitty",

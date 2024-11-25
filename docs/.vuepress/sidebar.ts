@@ -66,4 +66,41 @@ export default sidebar({
             collapsible: true,
         },
     ],
+    "/middleware/": [
+        {
+            text: "Redis",
+            prefix: "redis",
+            icon: "devicon:redis",
+            children: "structure",
+            collapsible: true,
+        },
+        {
+            text: "RabbitMQ",
+            prefix: "rabbitmq",
+            icon: "devicon:rabbitmq",
+            children: "structure",
+            collapsible: true,
+        },
+        {
+            text: "Kafka",
+            prefix: "kafka",
+            icon: "simple-icons:apachekafka",
+            children: "structure",
+            collapsible: true,
+        },
+        {
+            text: "RocketMQ",
+            prefix: "rocketmq",
+            icon: "simple-icons:apacherocketmq",
+            children: "structure",
+            collapsible: true,
+        },
+        {
+            text: "Dubbo",
+            prefix: "dubbo",
+            icon: "devicon:dubbo",
+            children: "structure",
+            collapsible: true,
+        },
+    ]
 });

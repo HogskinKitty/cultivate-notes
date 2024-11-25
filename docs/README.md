@@ -5,8 +5,8 @@ icon: fluent:home-48-filled
 heroImage: /logo.png
 heroText: cultivate-notes
 tagline: 学习过程犹如耕耘一般，一分耕耘，一分收获。
-#bgImage: /bg.svg
-#bgImageDark: /bg.svg
+bgImage: /bg.svg
+bgImageDark: /bg.svg
 actions:
   - text: 进入学习
     link: ./java/

@@ -17,7 +17,7 @@ actions:
 features:
   - title: Java 知识体系
     icon: grommet-icons:java
-    details: 包含 Java 基础、多线程、JUC 并发编程、JVM、常用框架（Spring 全家桶、Spring Cloud Alibaba 及其相关组件、MyBatis、Hibernate 等）、微服务、分布式
+    details: 包含 Java 基础、多线程、JVM、Spring 全家桶、MyBatis、微服务、分布式等
     link: /java/
 
   - title: 数据库

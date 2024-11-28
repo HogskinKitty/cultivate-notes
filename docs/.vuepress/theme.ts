@@ -71,6 +71,10 @@ export default hopeTheme({
       attrs: true,
       // Markdown 导入支持
       include: true,
+      // 标记
+      mark: true,
+      // Mermaid 支持
+      mermaid: true,
     },
     markdownImage: {
       // 图片标题
